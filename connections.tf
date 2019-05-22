@@ -3,10 +3,7 @@ provider "aws" {
 }
 
 provider "azurerm" {
-  subscription_id = "-48
-
-
-4"
+  subscription_id = "-484"
   client_id = "1"
   client_secret = "2"
   tenant_id = "b-99"
